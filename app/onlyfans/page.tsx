@@ -16,7 +16,7 @@ export default function onlyfans({count}: any) {
   return (
     <main className='text-center pt-4'>
       <h1 className='text-2xl text-center pb-2'>{count}</h1>
-      <p>people have searched for sukhvinder's OnlyFans page 🥵</p>
+      <p>you have searched for sukhvinder's OnlyFans page 🥵</p>
     </main>
   )
 }
