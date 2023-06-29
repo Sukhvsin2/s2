@@ -4,7 +4,7 @@ export default function Home() {
         <div>
           <h1 className="text-4xl text-center pb-2">about sukhvinder</h1>
           <p className="about">
-            sukhvinder is a software developer and software QA at <a className="underline" href="www.google.com"><span className="text-red-400 font-semibold">inspire brands</span></a> in <a className="underline" href="https://www.google.com/search?q=atlanta+traffic+memes&tbm=isch&ved=2ahUKEwiOrcz17-j_AhW0AWIAHX3tAYQQ2-cCegQIABAA&oq=atlanta+traffic+&gs_lcp=CgNpbWcQARgCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEIoFEEM6CAgAEIAEELEDOgoIABCKBRCxAxBDOg0IABCKBRCxAxCDARBDUOIFWKkdYNtVaABwAHgAgAGzAYgB3waSAQM5LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=5a2dZM6mHrSDiLMP_dqHoAg&bih=671&biw=1390&hl=en-GB">atlanta.</a> as a human, sukhvinder has many links like..
+            sukhvinder is a software developer and software QA at <a className="underline" href="https://www.google.com"><span className="text-red-400 font-semibold">inspire brands</span></a> in <a className="underline" href="https://www.google.com/search?q=atlanta+traffic+memes&tbm=isch&ved=2ahUKEwiOrcz17-j_AhW0AWIAHX3tAYQQ2-cCegQIABAA&oq=atlanta+traffic+&gs_lcp=CgNpbWcQARgCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEIoFEEM6CAgAEIAEELEDOgoIABCKBRCxAxBDOg0IABCKBRCxAxCDARBDUOIFWKkdYNtVaABwAHgAgAGzAYgB3waSAQM5LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=5a2dZM6mHrSDiLMP_dqHoAg&bih=671&biw=1390&hl=en-GB">atlanta.</a> as a human, sukhvinder has many links like..
           </p>
           <ul className="pt-2 text-center">
             <li><a className="underline" href="https://github.com/sukhvsin2">Github🔐</a></li>
