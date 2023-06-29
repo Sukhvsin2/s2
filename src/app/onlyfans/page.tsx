@@ -1,17 +1,17 @@
 "use client";
-import React, { useEffect } from 'react'
+// import React, { useEffect } from 'react'
 
 export default function onlyfans({count}: any) {
 
-  const getCounts = async () => {
-    const res = await fetch('/api/counts')
-    console.log('res', res);
+  // const getCounts = async () => {
+  //   const res = await fetch('/api/counts')
+  //   console.log('res', res);
     
-  }
+  // }
 
-  useEffect(() => {
-    // getCounts()
-  }, [])
+  // useEffect(() => {
+  //   // getCounts()
+  // }, [])
 
   return (
     <main className='text-center pt-4'>
